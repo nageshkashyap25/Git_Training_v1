@@ -6,3 +6,4 @@ GIT REVERT
 
 I am Nagesh kashyap
 GET Made changes
+This is comparision lecture
